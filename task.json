@@ -1,0 +1,19 @@
+{
+  "id": 45,
+  "username": "Innopolis",
+  "firstName": "Иванов",
+  "lastName": "Артем",
+  "email": [
+    {
+      "email1": "teye@mail.ru",
+      "email2": "uiuiewihiw@gmail.com"
+    }
+  ],
+  "password": "Univ2345",
+  "phone":
+  {
+  "code": "+73012",
+  "number": 5553654
+  },
+  "userStatus": 1
+}
